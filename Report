@@ -1,0 +1,230 @@
+ Task 7: Identify and Remove Suspicious Browser Extensions into analysis + step-by-step solutions so you can prepare a proper README/report and be ready for interview questions.
+
+
+---
+
+🔎 Analysis of the Task
+
+Objective: Identify potentially malicious browser extensions, understand their risks, and remove them.
+
+Why important? Many cyberattacks exploit malicious browser extensions to steal credentials, track activity, inject ads, or redirect traffic.
+
+Outcome expected: You should be able to detect, remove, and document suspicious extensions, while gaining awareness of browser security best practices.
+
+
+
+---
+
+✅ Step-by-Step Solution Guide
+
+1. Open Extension Manager
+
+Chrome:
+
+Open browser → click three dots (⋮) → More tools → Extensions
+
+Or directly go to: chrome://extensions/
+
+
+Firefox:
+
+Menu → Add-ons and Themes → Extensions
+
+Or go to: about:addons
+
+
+
+
+---
+
+2. Review Installed Extensions
+
+Look for extensions you don’t remember installing.
+
+Check if any extension has poor reviews, low credibility, or unverified publisher.
+
+Examples of suspicious behavior:
+
+Requests excessive permissions (e.g., “Read your browsing history,” “Access all website data”)
+
+Injects ads or redirects search results
+
+Uses a name similar to popular extensions (fake clones)
+
+
+
+
+---
+
+3. Check Permissions
+
+Red flag permissions:
+
+Access to all browsing data
+
+Read/modify clipboard contents
+
+Access passwords or autofill
+
+Modify settings or download files
+
+
+
+
+---
+
+4. Identify Suspicious Extensions
+
+Look for:
+
+Unused extensions (you don’t use them anymore)
+
+Unknown origin
+
+Negative reviews or flagged as malware online
+
+
+
+
+---
+
+5. Remove / Disable Extensions
+
+Disable temporarily first, then remove completely if not required.
+
+Steps: Click Remove button in the extensions list.
+
+
+
+---
+
+6. Restart Browser
+
+Restart to ensure removal is successful and check if performance improves.
+
+
+
+---
+
+7. Research & Document
+
+Google suspicious extensions to see if they are flagged as malicious.
+
+Document:
+
+List of extensions installed
+
+Which were removed (with reason)
+
+Final safe extension list
+
+
+
+
+---
+
+📝 Sample Report / Deliverables
+
+Title: Task 7 – Identify & Remove Suspicious Browser Extensions
+
+Objective: To analyze and remove potentially harmful browser extensions and improve browser security.
+
+Steps Taken:
+
+1. Opened extension manager in Chrome.
+
+
+2. Reviewed installed extensions and permissions.
+
+
+3. Identified suspicious extension: XYZ Free VPN (excessive permissions, poor reviews).
+
+
+4. Removed the suspicious extension.
+
+
+5. Restarted browser and confirmed improved performance.
+
+
+
+Extensions Removed:
+
+XYZ Free VPN → Requested access to all browsing data and installed without my consent.
+
+
+Safe Extensions Kept:
+
+Adblock Plus (trusted, verified)
+
+Grammarly (verified developer, necessary)
+
+
+Outcome: Awareness of browser risks improved, browser performance optimized, and unnecessary risks removed.
+
+
+---
+
+🎤 Interview Questions with Answers
+
+1. How can extensions pose security risks?
+
+By stealing data, injecting malicious scripts, tracking user activity, or redirecting traffic.
+
+
+
+2. What permissions should raise suspicion?
+
+Access to browsing history, passwords, clipboard, downloads, or “Read & change all data on websites.”
+
+
+
+3. How to safely install extensions?
+
+Use official web stores, check developer reputation, reviews, permissions, and update regularly.
+
+
+
+4. What is extension sandboxing?
+
+A security feature isolating extensions so they can’t directly harm the core browser or OS.
+
+
+
+5. Can extensions steal passwords?
+
+Yes, if they have permissions to read page data or access autofill fields.
+
+
+
+6. How to update securely?
+
+Enable automatic updates from official stores; avoid downloading .crx files from unknown sites.
+
+
+
+7. Difference between extensions and plugins?
+
+Extensions run inside the browser for added features; plugins are third-party programs that handle content (e.g., Flash, Java).
+
+
+
+8. How to report malicious extensions?
+
+Use Chrome Web Store / Firefox Add-ons report feature, or submit via browser’s security team.
+
+
+
+
+
+---
+
+
+
+Browser security
+
+Extensions vs Plugins
+
+Permissions and risks
+
+Malware prevention
+
